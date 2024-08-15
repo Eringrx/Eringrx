@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Eringrx
+- 🌱 I’m currently learning python
